@@ -25,10 +25,9 @@
     "latest_version": "1.2.0",
     "show_notification": true,
     "force_update": false,
-    "changelog": "• بهبود عملکرد برنامه\n• رفع باگ‌های گزارش شده\n• اضافه شدن قابلیت جدید\n• بهینه‌سازی مصرف باتری",
-    "download_url": "https://example.com/app/download",
-    "update_message": "بروزرسانی جدید آماده است! برای تجربه بهتر، لطفاً برنامه را بروز کنید."
+    "download_url": "https://example.com/app/download"
   }
 
 }
+
 
