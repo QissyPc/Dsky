@@ -22,13 +22,14 @@
   },
   
   "app_update": {
-    "latest_version": "1.4.0",
+    "latest_version": "1.5.0",
     "show_notification": true,
     "force_update": false,
     "download_url": "https://example.com/app/download"
   }
 
 }
+
 
 
 
