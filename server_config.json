@@ -16,9 +16,9 @@
     "active": true,
     "title": "در نسخه بتا به سر میبرید!",
     "message": "ممکن است بعضی از قابلیت ها همچنان ناقص یا غیرفعال باشند .",
-    "image_url": "https://raw.githubusercontent.com/QissyPc/Dsky/main/promo_banner.jpg",
-    "action_url": "https://example.com/shop",
-    "action_text": "مشاهده محصولات"
+    "image_url": "https://s8.uupload.ir/files/img_20251106_103854_521_5fr.jpg",
+    "action_url": "https://t.me/Dev_Qissy",
+    "action_text": "تلگرام"
   },
   
   "app_update": {
@@ -29,6 +29,7 @@
   }
 
 }
+
 
 
 
