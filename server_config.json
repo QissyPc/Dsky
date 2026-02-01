@@ -14,8 +14,8 @@
   
   "promotional_notification": {
     "active": true,
-    "title": "🎉 تخفیف ویژه ۵۰٪",
-    "message": "فقط امروز! ۵۰٪ تخفیف برای خرید اول",
+    "title": "در نسخه بتا به سر میبرید!",
+    "message": "ممکن است بعضی از قابلیت ها همچنان ناقص یا غیرفعال باشند .",
     "image_url": "https://raw.githubusercontent.com/QissyPc/Dsky/main/promo_banner.jpg",
     "action_url": "https://example.com/shop",
     "action_text": "مشاهده محصولات"
@@ -29,6 +29,7 @@
   }
 
 }
+
 
 
 
