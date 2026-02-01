@@ -15,7 +15,7 @@
   "promotional_notification": {
     "active": true,
     "title": "🎉 تخفیف ویژه ۵۰٪",
-    "message": "فقط امروز! ۵۰٪ تخفیف برای خرید اول\nکد تخفیف: WELCOME50",
+    "message": "فقط امروز! ۵۰٪ تخفیف برای خرید اول",
     "image_url": "https://raw.githubusercontent.com/QissyPc/Dsky/main/promo_banner.jpg",
     "action_url": "https://example.com/shop",
     "action_text": "مشاهده محصولات"
@@ -29,6 +29,7 @@
   }
 
 }
+
 
 
 
