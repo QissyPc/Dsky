@@ -13,7 +13,7 @@
   },
   
   "promotional_notification": {
-    "active": true,
+    "active": false,
     "title": "در نسخه بتا به سر میبرید!",
     "message": "ممکن است بعضی از قابلیت ها همچنان ناقص یا غیرفعال باشند .",
     "image_url": "https://s8.uupload.ir/files/img_20251106_103854_521_5fr.jpg",
@@ -29,6 +29,7 @@
   }
 
 }
+
 
 
 
